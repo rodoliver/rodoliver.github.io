@@ -53,8 +53,8 @@ Presentations
 
 ### [Ethical Hacking](/pdf/Ethical Hacking.pdf)
 
-- **Class:*CSCI 405 Principles of Cybersecurity* 
-- **Grade:*A*
+- Class: *CSCI 405 Principles of Cybersecurity* 
+- Grade: *A*
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)
