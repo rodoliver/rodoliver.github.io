@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Ethical Hacking](/pdf/Ethical Hacking.pdf)
+### [Ethical Hacking Presentation](/pdf/Ethical Hacking.pdf)
 
 - Class: *CSCI 405 Principles of Cybersecurity* 
 - Grade: *A*
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Estee Lauder Data Breach](/pdf/sample_presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- Class:*CSCI 301 Survey of Scripting Languages* 
+- Grade:*B+*
 
 ---
 
