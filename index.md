@@ -62,12 +62,12 @@ Presentations
 - Class: *CSCI 405 Principles of Cybersecurity* 
 - Grade: *A*
 
----
 
 ### [Information Laws & Standards Infographic](pdf/Information_Laws_&_Standards_Infograph.pdf)
 
 - Class: *CSCI 352 Cyber Defense* 
 - Grade: * *
+
 
 ---
 
