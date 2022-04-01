@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Edward Snowden: Treasonous Traidor or Hero of the American People?](/pdf/Edward Snowden.pdf)
 
--   **Class:**  
--   **Grade:**
+-   Class:*CSCI 405 Principles of Cybersecurity*  
+-   Grade:*A*
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Intellectual Property: Should Programmers have the right to protect the algorithms they develop?](/pdf/Intellectual Property.pdf)
 
--   **Class:** 
--   **Grade:**
+-   Class:*CSCI 301 Survey of Scripting Languages* 
+-   Grade:*B+*
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ad Blockers: From a Christian perspective, Is using Ad Blockers morally wrong?](/pdf/Ad Blockers.pdf)
 
--   **Class:** 
--   **Grade:**
+-   Class:CSCI 235 Procedural Programming
+-   Grade:*C+*
 
 ---
 
