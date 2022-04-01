@@ -31,36 +31,36 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Edward Snowden: Treasonous Traidor or Hero of the American People?](/pdf/Edward Snowden.pdf)
+### [Edward Snowden: Treasonous Traidor or Hero of the American People?](pdf/Edward Snowden.pdf)
 
 -   Class:*CSCI 405 Principles of Cybersecurity*  
--   Grade:*A*
+-   Grade: *A*
 
-### [Intellectual Property: Should Programmers have the right to protect the algorithms they develop?](/pdf/Intellectual Property.pdf)
+### [Intellectual Property: Should Programmers have the right to protect the algorithms they develop?](pdf/Intellectual Property.pdf)
 
 -   Class:*CSCI 301 Survey of Scripting Languages* 
--   Grade:*B+*
+-   Grade: *B+*
 
-### [Ad Blockers: From a Christian perspective, Is using Ad Blockers morally wrong?](/pdf/Ad Blockers.pdf)
+### [Ad Blockers: From a Christian perspective, Is using Ad Blockers morally wrong?](pdf/Ad Blockers.pdf)
 
 -   Class:CSCI 235 Procedural Programming
--   Grade:*C+*
+-   Grade: *C+*
 
 ---
 
 Presentations
 -------------
 
-### [Ethical Hacking Presentation](/pdf/Ethical Hacking.pdf)
+### [Ethical Hacking Presentation](pdf/Ethical Hacking.pdf)
 
 - Class: *CSCI 405 Principles of Cybersecurity* 
 - Grade: *A*
 
 
-### [Estee Lauder Data Breach](/pdf/sample_presentation.pdf)
+### [Estee Lauder Data Breach](pdf/sample_presentation.pdf)
 
 - Class:*CSCI 301 Survey of Scripting Languages* 
-- Grade:*B+*
+- Grade: *B+*
 
 ---
 
