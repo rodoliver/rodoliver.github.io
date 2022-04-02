@@ -27,6 +27,14 @@ Programming Projects
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
+### [CPT Senior Group Project | CSCI 275](export.html)
+
+![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+
+
+---
 ### [Internet Programming Final Project | CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
 
 ![RO Designs Web Portfolio](images/Internet_Programming_Final_Project.png)
