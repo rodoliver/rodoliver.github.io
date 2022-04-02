@@ -30,7 +30,9 @@ Programming Projects
 ### [CPT Senior Group Project | CSCI 275](export.html)
 
 ![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
+
 ![Bookstore Admin Page](images/Bookstore_Order_System_Admin.png)
+
 ![Bookstore School Director Page](images/Bookstore_Order_System_Director.png)
 
 
