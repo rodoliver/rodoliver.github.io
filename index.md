@@ -27,13 +27,13 @@ Programming Projects
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [CPT Senior Group Project | CSCI 275](index.md/export.html)
+### [CPT Senior Group Project | CSCI 275](images/export.html)
 
-![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
+![*Bookstore Login Page*](images/Bookstore_Order_System_Home.png)
 
-![Bookstore Admin Page](images/Bookstore_Order_System_Admin.png)
+![*Bookstore Admin Page*](images/Bookstore_Order_System_Admin.png)
 
-![Bookstore School Director Page](images/Bookstore_Order_System_Director.png)
+![*Bookstore School Director Page*](images/Bookstore_Order_System_Director.png)
 
 
 ---
