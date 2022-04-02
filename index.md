@@ -27,6 +27,11 @@ Programming Projects
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
+### [Website Design| CSCI 226](project1)
+
+![RO Designs Web Portfolio](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
+
+---
 
 Ethics Papers
 -------------
