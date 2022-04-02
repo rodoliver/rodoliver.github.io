@@ -27,9 +27,9 @@ Programming Projects
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Website Design| CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
+### [Internet Programming Final Project| CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
 
-![RO Designs Web Portfolio](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
+![RO Designs Web Portfolio](pdf/Internet_Programming_Final_Project.pdf)
 
 ---
 
