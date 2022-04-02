@@ -29,7 +29,7 @@ Programming Projects
 ---
 ### [Internet Programming Final Project| CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
 
-![RO Designs Web Portfolio](pdf/Internet_Programming_Final_Project.pdf)
+![RO Designs Web Portfolio](images/Internet_Programming_Final_Project.png)
 
 ---
 
