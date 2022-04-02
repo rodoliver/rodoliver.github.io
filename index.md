@@ -22,12 +22,12 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Applied Networking Final Project & Lab | CSCI 332](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Internet Programming Final Project| CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
+### [Internet Programming Final Project | CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
 
 ![RO Designs Web Portfolio](images/Internet_Programming_Final_Project.png)
 
