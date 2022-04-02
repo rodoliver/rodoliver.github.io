@@ -31,10 +31,6 @@ Programming Projects
 
 ![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
 
-![Bookstore Admin Page](images/Bookstore_Order_System_Admin.png)
-
-![Bookstore School Director Page](images/Bookstore_Order_System_Director.png)
-
 
 ---
 ### [Internet Programming Final Project | CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
