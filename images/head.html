@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8"/>
+  <title>Bookstore Order System</title>
+  <meta name="viewport" content="device-width, intial-scale=1"/>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="main.css" type="text/css">
+
+  <style>
+    body {
+      background-color: #f2f3f4;
+    }
+    #send-home {
+      float: right;
+    }
+    #control-panel {
+      margin-bottom: 5em;
+      padding: 2.5em;
+      background-color: white;
+    }
+    .tab-content {
+      padding: 2em;
+    }
+    #order-info {
+      background-color: #f2f3f4;
+    }
+    #order-info .col-md-2 p {
+      font-weight: bold;
+      font-size: 15px;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="container">
+      <h1 id="bos-logo">Bookstore Order System</h1>
+      <h2>Powered by R2D2 Technologies</h2>
+      <a href="default.html"><button id="send-home" class="btn btn-primary">Log Out</button></a>
+  </header>
+
+  <div id="control-panel" class="container">
+      <h2>Control Panel</h2>
+      <ul class="nav nav-tabs">
+          <li class="active"><a data-toggle="tab" href="#menu0">Pending Orders</a></li>
+          <li><a data-toggle="tab" href="#menu1">Orders Pending Approval</a></li>
+          <li><a data-toggle="tab" href="#menu2">View Previous Orders</a></li>
+          <li><a data-toggle="tab" href="#menu3">Create Orders</a></li>
+      </ul>
+
+      <div class="tab-content">
+          <div id="menu0" class="tab-pane fade in active">
+              <h3>Order Status</h3>
+              <!--Should pull in info from the database, specifically current orders: image + book info + course info /RH-->
+                  <div class="col-lg-3">
+                    <p><img src="https://www.murach.com/images/stories/virtuemart/product/murach's-c_sharp-2015.jpg" class="img-responsive"/></p>
+                  </div>
+                  <div class="col-lg-9" id="order-info">
+                      <div class="row">
+                          <div class="col-md-2">
+                            <p>ISBN</p>
+                          </div>
+                          <div class="col-md-4">
+                            <p>9781890774943</p>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col-md-2">
+                            <p>Title</p>
+                          </div>
+                          <div class="col-md-4">
+                            <p>Murach's C# 2015</p>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col-md-2">
+                            <p>Department</p>
+                          </div>
+                          <div class="col-md-4">
+                            <p>Computer Technology</p>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col-md-2">
+                            <p>Course</p>
+                          </div>
+                          <div class="col-md-4">
+                            <p>CPT 230</p>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col-md-2">
+                            <p>Instructor</p>
+                          </div>
+                          <div class="col-md-4">
+                            <p>R. Whaite</p>
+                          </div>
+                      </div>
+                      <div class="row">
+                          <div class="col-md-2">
+                            <p>Status</p>
+                          </div>
+                          <div class="col-md-4">
+                            <p>Received</p>
+                          </div>
+                      </div>
+                  </div>
+          </div>
+
+          <div id="menu1" class="tab-pane fade">
+              <h3>Orders Pending Approval</h3>
+
+              <div class="col-lg-3">
+                <p><img src="https://pictures.abebooks.com/isbn/9780133592207-us.jpg" class="img-responsive"/></p>
+              </div>
+              <div class="col-lg-9" id="order-info">
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Order ID</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>10355980</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>ISBN</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>9780133592207</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Title</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>Introduction to Java Programming</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Department</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>Computer Technology</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Course</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>CPT 236</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Instructor</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>K. Cannon</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Requested By</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>K. Cannon</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                          <form class="form-group form-group-row" action="approve" method="post">
+                              <input type="hidden" name="" value="orderid">
+                              <input type="submit" value="Approve" class="btn btn-primary">
+                          </form>
+                      </div>
+                      <div class="col-md-2">
+                          <form class="form-group form-group-row" action="deny" method="post">
+                              <input type="hidden" name="" value="orderid">
+                              <input type="submit" value="Deny" class="btn btn-primary">
+                          </form>
+                      </div>
+                  </div>
+              </div>
+
+          </div>
+          <div id="menu2" class="tab-pane fade">
+
+              <h3>View Previous Orders</h3>
+              <!--<div class="col-lg-8">
+                  <div class="input-group">
+                      <input type="text" class="form-control" placeholder="Search for...">
+                      <span class="input-group-btn">
+                          <button class="btn btn-secondary glyphicon glyphicon-search" type="button"></button>
+                      </span>
+                  </div>
+              </div><br />-->
+              <div class="col-lg-3">
+                <p><img src="https://cs.cheggcdn.com/covers2/57260000/57260565_1468691826_Width288.jpg" class="img-responsive"/></p>
+              </div>
+              <div class="col-lg-9" id="order-info">
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Order ID</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>10133768</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>ISBN</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>9781890774967</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Title</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>Murach's SQL Server 2016 for Developers</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Department</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>Computer Technology</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Course</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>IST 278</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Instructor</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>R. Whaite</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Term</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>FA 2017</p>
+                      </div>
+                  </div>
+                  <div class="row">
+                      <div class="col-md-2">
+                        <p>Ordered By</p>
+                      </div>
+                      <div class="col-md-4">
+                        <p>R. Whaite</p>
+                      </div>
+                  </div>
+                </div>
+          </div>
+          <!-- Order info should also include instructor (user) info, but this should not be manually input.
+          So as to populate the Order, it will pull from User. /RH-->
+          <div id="menu3" class="tab-pane fade">
+              <h3>Create Orders</h3>
+          <!--Laid out some groundwork, name attributes added into the form. Use 'em if you want to /RH-->
+              <form action="create_order" method="post">
+
+                <div class="form-group row">
+                    <div class="form-group col-lg-6" id="book-info">
+                        <label for="isbn-input" class="col-2 col-form-label">ISBN:</label>
+                        <input class="form-control" type="number" placeholder="9781457608025" id="isbn-input" name="book_isbn" value="">
+
+                        <label for="title-input" class="col-2 col-form-label">Title:</label>
+                        <input class="form-control" type="text" placeholder="Bedford Handbook" id="title-input" name="book_title" value="">
+
+                        <label for="author-input" class="col-2 col-form-label">Author:</label>
+                        <input class="form-control" type="text" placeholder="Diana Hacker, Nancy Sommers" id="author-input" name="book_author" value="">
+
+                        <label for="edition-input" class="col-2 col-form-label">Edition:</label>
+                        <input class="form-control" type="number" placeholder="9" id="edition-input" name="book_edition">
+
+                        <label for="publisher-input" class="col-2 col-form-label">Publisher:</label>
+                        <input class="form-control" type="text" placeholder="Bedford/St Martin's" id="publisher-input" name="book_publisher" value="">
+                    </div>
+                    <div class="form-group col-lg-6">
+                        <label for="semester-input" class="col-2 col-form-label">Semester:</label>
+                        <select name="course_semester" id="semester-input" class="form-control">
+                          <option value="SP">SP</option>
+                          <option value="SU">SU</option>
+                          <option value="FA">FA</option>
+                        </select>
+
+                        <label for="campus-input" class="col-2 col-form-label">Campus:</label>
+                        <select name="course_campus" id="campus-input" class="form-control">
+                          <option value="0">Barton</option>
+                          <option value="1">Brashier</option>
+                          <option value="2">Benson</option>
+                          <option value="3">Northwest</option>
+                        </select> <br>
+
+                        <label for="department-input" class="col-2 col-form-label">Department:</label>
+                        <select name="course_department" id="department-input" class="form-control">
+                          <option value="ACC">Accounting</option>
+                          <option value="CPT">Computer Technology</option>
+                          <option value="ENG">English</option>
+                          <option value="MAT">Math</option>
+                        </select> <br>
+
+                        <label for="code-input" class="col-2 col-form-label">Course Code:</label>
+                        <input class="form-control" type="text" placeholder="101" id="code-input" name="course_code" value="">
+
+                        <label for="course-start" class="col-2 col-form-label">Course Start Date:</label>
+                        <input class="form-control" type="date" id="course-start" name="course_start_date" value="">
+                    </div>
+                </div>
+
+                  <input type="submit" value="Order" class="btn btn-primary">
+              </form>
+          </div>
+      </div>
+  </div>
+</div>
+
+  <footer>
+    <p>Background images are courtesy of financialplan.byu.edu/buying-textbooks and feelgrafix.com/752369-black-background-images.html</p>
+  </footer>
+</body>
+</html>
