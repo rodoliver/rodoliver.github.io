@@ -35,7 +35,9 @@ Programming Projects
 ---
 ### [Internet Programming Final Project | CSCI 226](project6)
 
-![RO Designs Web Portfolio](images/Internet_Programming_Final_Project.png)
+![RO Designs Web Portfolio](images/RO_WebDesign.png)
+
+![RO Designs Web Portfolio Enhanced](images/RO_WebDesign5.png)
 
 ---
 
