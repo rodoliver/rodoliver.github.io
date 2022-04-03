@@ -70,8 +70,8 @@ Presentations
 
 ### [Estee Lauder Data Breach: *The forgotten Records*](pdf/Estee_Lauder_Breach_2020.pdf)
 
-- Class: *CSCI 405 Principles of Cybersecurity* 
-- Grade: *A*
+- Class: *CSCI 301 Survey of Scripting Languages* 
+- Grade: *B+*
 
 
 ### [Information Laws & Standards Infographic](pdf/Information_Laws_&_Standards_Infograph.pdf)
