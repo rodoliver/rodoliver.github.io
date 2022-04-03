@@ -27,7 +27,7 @@ The application doesn't need compiliing but can be run by going tothe webpages l
 
 The application is just a simple desgin that allow the user to view basic function on how a website works. This site allows for the user to use buttons, checkboxes, clickable thumbnails, and radio buttons to understand how the website respond to user interaction.
 
-Website landing page on load (see Fig 1), displays the user interface with interactive links for the user to be able to navigate the site, and see how the clickable items and links respond. The Recreation pages just to display code style and design, as well as to showcase the use of a different nav bars style (see Fig 2).The Entertainment page showcases the use of a radio button style form that allows a user to make a selection for movie tickets with the ability to reset the form for the user (see Fig 3). The Fitness site showcases the use of tables and rows within a website. The site also showcases the styling that is used for alternating colors on rows.
+Website landing page on load (see Fig 1), displays the user interface with interactive links for the user to be able to navigate the site, and see how the clickable items and links respond. The Recreation pages just to display code style and design, as well as to showcase the use of a different nav bars style (see Fig 2).The Entertainment page showcases the use of a radio button style form that allows a user to make a selection for movie tickets with the ability to reset the form for the user (see Fig 3). The Fitness site showcases the use of tables and rows within a website. The site also showcases the styling that is used for alternating colors on rows (see Fig 4).
 
 ![screenshot](images/RO_WebDesign.png)  
 Fig 1. The Landing Page
