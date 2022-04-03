@@ -12,28 +12,28 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Project 2 Title | CSCI 315](project2)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Project 3 Title | CSCI 325](project3)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Applied Networking Final Project & Lab | CSCI 332](project1)
+### [Applied Networking Final Project & Lab | CSCI 332](project4)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [CPT Senior Group Project | CSCI 275](images/head.html)
+### [CPT Senior Group Project | CSCI 275](project5)
 
 ![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
 
 
 ---
-### [Internet Programming Final Project | CSCI 226](http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm)
+### [Internet Programming Final Project | CSCI 226](project6)
 
 ![RO Designs Web Portfolio](images/Internet_Programming_Final_Project.png)
 
