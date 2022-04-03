@@ -38,8 +38,7 @@ Fig 2. Site load after clicking the Recreation button on the nav bar.
 ![screenshot](images/RO_WebDesign3.png)  
 Fig 3. Site load after clicking the Entertainment button on the nav bar.
 
-![screenshot](images/RO_WebDesign4.png)
-
+![screenshot](images/RO_WebDesign4.png) 
 Fig 4. Site load after clicking the Fitness button on the nav bar.
 
 ## 3. Additional Considerations
