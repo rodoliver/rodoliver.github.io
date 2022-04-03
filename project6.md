@@ -29,16 +29,20 @@ The application is just a simple desgin that allow the user to view basic functi
 
 Website landing page on load (see Fig 1), displays the user interface with interactive links for the user to be able to navigate the site, and see how the clickable items and links respond. The Recreation pages just to display code style and design, as well as to showcase the use of a different nav bars style (see Fig 2).The Entertainment page showcases the use of a radio button style form that allows a user to make a selection for movie tickets with the ability to reset the form for the user (see Fig 3). The Fitness site showcases the use of tables and rows within a website. The site also showcases the styling that is used for alternating colors on rows (see Fig 4).
 
-![screenshot](images/RO_WebDesign.png)  
+![screenshot](images/RO_WebDesign.png)
+
 Fig 1. The Landing Page
 
-![screenshot](images/RO_WebDesign2.png)  
+![screenshot](images/RO_WebDesign2.png)
+
 Fig 2. Site load after clicking the Recreation button on the nav bar.
 
-![screenshot](images/RO_WebDesign3.png)  
+![screenshot](images/RO_WebDesign3.png)
+
 Fig 3. Site load after clicking the Entertainment button on the nav bar.
 
-![screenshot](images/RO_WebDesign4.png) 
+![screenshot](images/RO_WebDesign4.png)
+
 Fig 4. Site load after clicking the Fitness button on the nav bar.
 
 ## 3. Additional Considerations
