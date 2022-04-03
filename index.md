@@ -68,7 +68,7 @@ Presentations
 - Grade: *A*
 
 
-### [Estee Lauder Data Breach: *The forgotten Records*](pdf/The Estée Lauder Breach of 2020.pdf)
+### [Estee Lauder Data Breach: *The forgotten Records*](pdf/The_Estée_Lauder_Breach_of_2020.pdf)
 
 - Class: *CSCI 301 Survey of Scripting Languages* 
 - Grade: *B+*
