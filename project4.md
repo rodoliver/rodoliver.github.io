@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Website with *Linked Pages, File Server transfer*, *Database Management*, & *Online store*.
+*Linked Pages, File Server transfer*, *Database Management*, & *Online store*.
 ===============
 
 -   **Class:** *Applied Networking*
