@@ -233,14 +233,41 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Bookstore_Instructor's_Admin_Page.png)  
+Fig 1. The Admin Page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Bookstore_Instructor's_Admin_Edit_User.png)  
+Fig 2. Example of User Account editing.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Bookstore_Admin_Page-Department_selection.png)  
+Fig 3. Example of Editing the user's department.
+
+![screenshot](images/Bookstore_Admin_Page-Role_selection.png)  
+Fig 4. Example of Editing the user's role.
+
+![screenshot](images/Bookstore_Instructor's_View_Page.png)  
+Fig 5. Example of Instructor's view pending orders.
+
+![screenshot](images/Bookstore_Instructor's_View_Page-2.png)  
+Fig 6. Example of Instructor's view of previous orders.
+
+![screenshot](images/Bookstore_Instructor's_View_Page-3.png)  
+Fig 7. Example of Instructor's order form for books for course.
+
+![screenshot](images/Bookstore_Instructor's_View_Page-Campus_selection.png)  
+Fig 8. Example of Instructor's campus selection drop-down list.
+
+![screenshot](images/Bookstore_DepartmentHead_Order_Approval_Page.png)  
+Fig 9. Example of the Department Head's approval portal.
+
+![screenshot](images/Bookstore_Staff_Page.png)  
+Fig 10. Example of Bookstore Staff portal.
+
+![screenshot](images/Bookstore_Staff_Page_Update_Orders-2.png)  
+Fig 10. Example of Bookstore Staff order processing.
+
+![screenshot](images/Bookstore_Staff_Page_Update_Orders-3.png)  
+Fig 11. Example of Bookstore processed orders.
 
 ## 3. Additional Considerations
 
