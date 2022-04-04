@@ -3,11 +3,12 @@
 Online Bookstore Final Project
 ===============
 
--   **Class: *CSCI 275 CPT Senior Project* 
--   **Grade: *A* 
--   **Language(s): *HTML, PHP, JavaScript, JQuery, CSS* 
--   **Authors: *David Slama, Ray Hill, Danial Greer, Roderick Oliver*
--   **Project Leader: *Roderick Oliver*
+-   **Class:** *CSCI 275 CPT Senior Project* 
+-   **Grade:** *A* 
+-   **Language(s):** *HTML, PHP, JavaScript, JQuery, CSS* 
+-   **Authors:** *David Slama, Ray Hill, Danial Greer, Roderick Oliver*
+-   **Project Leader:** *Roderick Oliver*
+
 ## Project description
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
