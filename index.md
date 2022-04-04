@@ -1,5 +1,7 @@
 Roderick L. Oliver
 
+![headshot](images/Photo_Shoot_Image_Cropped.png)
+
 --------------------
 
 
