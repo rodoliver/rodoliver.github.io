@@ -1,6 +1,5 @@
 # Site settings
 # These are used to personalize your new site.
-image: "/images/Photo_Shoot_Image.png?raw=true"
 title: Roderick L. Oliver # your name here
 logo: "/images/Photo_Shoot_Image.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
