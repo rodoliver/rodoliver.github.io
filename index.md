@@ -12,17 +12,16 @@ Programming Projects
 ![Project 4 Thumbnail Name](images/CSCI_332_Screenshot2.png)
 
 ---
-### [CPT Senior Group Project | CSCI 275](project5)
-
-![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
-
-
----
 ### [Internet Programming Final Project | CSCI 226](project6)
 
 ![RO Designs Web Portfolio](images/RO_WebDesign.png)
 
 ![RO Designs Web Portfolio Enhanced](images/RO_WebDesign5.png)
+
+---
+### [CPT Senior Group Project | CSCI 275](project5)
+
+![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
 
 ---
 
