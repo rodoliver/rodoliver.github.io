@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Applied Networking Final Project & Lab | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/CSCI_332_Screenshot2.png)
 
 ---
 ### [CPT Senior Group Project | CSCI 275](project5)
