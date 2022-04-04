@@ -1,13 +1,11 @@
 [Back to Portfolio](./)
 
-Project 4 Title
+Website with Linked Pages, File Server transfer, Database management, & Online store.
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:** *Applied Networking*
+-   **Grade:** *B*
+-   **Language(s):** *HTML, CSS, PHP, MySQL*
 
 ## Project description
 
@@ -37,7 +35,16 @@ Fig 1. The launch screen
 Fig 2. Example output after input is processed.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Example output after input is processed.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. Example output after input is processed.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 5. Example output after input is processed.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 6. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
