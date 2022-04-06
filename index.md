@@ -1,5 +1,5 @@
 ![headshot](images/Photo_Shoot_Image_Cropped.png)
-Roderick L. Oliver
+*Roderick L. Oliver*
 --------------------
 
 
