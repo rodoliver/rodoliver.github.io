@@ -272,7 +272,7 @@ Fig 11. Example of Bookstore processed orders.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+During the process of developing this application there werem deliverables that we had to provide. The deliverables inccluding a *Mission Statement, Project Charter, Functional Specifications, a Testing Plan, a Testing Report, a Finalized System Design, and a User Guide*, which can a be found below
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
