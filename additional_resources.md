@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Online Bookstore Final Project (Cont'd)
 ===============
 
 -   **Class:** 
