@@ -11,7 +11,7 @@ Online Bookstore Final Project
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The purpose of he is project was to create a functionall online bookstore with the capabilities for students to veiw courses and books for upcoming semesters. The site is an interface for for instructors, directors, and department heads, to be able to view, place orders, edit orders, as well approve orders based on role granted to use the site. The site also allows for the bookstore employees to be able to process the books that are ordered through the site. The site also allows for the site admin to add and update user accounts. 
 
 ## How to run the program:
 
@@ -226,13 +226,12 @@ $(document).ready(function(){
 </script>
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The UI provides for a user whether they are the site admin, an instructor, department head, or a bookstore employee, can login and see the neccessary functions needed to process the book orders. The site use model form created using Bootstrap for the design. And API for retrieving book information based on the ISBN number is used for creating the book orders to be submiotted for approval and is stored in the database. As the books go through the process of being ordered, approved, and processed by the bookstore, it sends email notifications to each party registered.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+The first screensh displays an admin page after login (see Fig 1 - 4), the model used for the forms, and a list of drop-down options that can used in managing the user's account access and the course they will be responsible for. The next set of screenshot provides the functions administered by an instructor. The instructiors are able to see the book orders they have made and status of those orders, as well as the ability to place additional orders (see Fig 5 - 8). The remainging images provide example of the director and department head's view of the site which grants the abliltiy approve or reject orders placed by instructors before sending it on to the bookstore for processing. And lastly, the books store employees's view allows for the processing of the orders received and for view orders that have already been placed. (see Fig 9 - 11).
 
 ![screenshot](images/Bookstore_Instructor's_Admin_Page.png)  
 Fig 1. The Admin Page
