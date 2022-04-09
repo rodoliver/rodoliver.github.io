@@ -21,7 +21,7 @@ Programming Projects
 ![RO Designs Web Portfolio Enhanced](images/RO_WebDesign5.png)
 
 ---
-### [CPT Senior Group Project | CSCI 275](project5)
+### [CPT Senior Project | CSCI 275](project5)
 
 ![Bookstore Login Page](images/Bookstore_Order_System_Home.png)
 
