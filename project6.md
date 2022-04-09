@@ -6,8 +6,7 @@ Website Design Final Project
 -   **Class:** *CSCI 226 Internet Programming* 
 -   **Grade:** *A* 
 -   **Language(s):** *HTML & CSS* 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:wyld.youth@gmail.com?subject=GitHub%20Access) to request access.)
+
 
 ## Project description
 
