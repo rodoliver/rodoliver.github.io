@@ -3,9 +3,9 @@
 Online Bookstore Final Project (Cont'd)
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** *CSCI 275 CPT Senior Project*
+-   **Grade:** *A* 
+-   **Language(s):** *HTML, CSS, JQuery, Javascript, PHP* 
 -  
 ## Supporting Documentation of Development Process
 
