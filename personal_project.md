@@ -3,7 +3,7 @@
 Personal Porject in Progress
 ===============
 
--   **Language(s): *HTML5, PHP* 
+-   **Language(s):** *HTML5, PHP* 
 
 ## Project description
 
