@@ -9,24 +9,27 @@
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This particular project is a collection of semester long assignments, conssisting of the us eo of "VirtualBox, Visual Studio Code, and MySQL*. The project provided students the needed skills to create functional website using HTML, CSS, and PHP. The project also consist of creating a server & client application using the terminal in Ubuntu. 
 
-## How to compile and run the program
+## How to run the program
 
 How to compile (if applicable) and run the project.
 
 ```bash
-cd ./project
-python setup.py
+In order to run the command for the server application, the user will need to navigate to the server client files in their directors and runn the from the command line and typing in the below commands, each from different terminals, and press enter. Examplse can be found in the screenshots below:
+
+./[client filename] in terminal 1
+
+./[server filename] in terminal 2
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+The UI design for the class portfolio is a simple compilation of the work we've done ove the semeter. The site required that an Apache local server be setup and configured or use with our code. This required the use of Visual Studio Code to design the interface pages and the linkages from one page the the other. The allows for the user to be able to navigate between pages using the links and buttons used in the navigation bar. The second part of the project inclued the building of an onlione shopping cart and a tax calculator, which uses PHP with HTML. In conjunction with building the online shopping cart's use of PHP, the use of PHP to create the databse management tool, uses MySQL for the construction and management of the databased created or removed by the tool. Lastly, the Ubuntu command line terminal is used to perform a simple file tranfer. The screenshot below provives an example of how it works.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+To provide a context for the way the code is constructed for the HTML application a screenshot has been provided (see Fig 1), that exemplies the how application handles the linked pages, as well as their design use of an internal and external cascading style sheets. The next few images describe how the site flows and the different pages and functions added as the portfolio progressed (see Fig 2 - 5). In the next few images the displays the file navigation for the simple file transfer and the running of the client/server commands used (see Fig 6 - 8). The following screenshot provide examples of how the database management tools works along with online shopping cart. The user is able to create a database using MySQL and are query the database for the added databases and can remove them if needed. The online shopping cart allows for a user to select from a list of items to be added to a cart and then calculates the quantity and the cost of the items selected. (see Fig 9 - 14)
 
 ![screenshot](images/CSCI_332_Screenshot1.png)  
 Fig 1. Example of HTML Code and structure
@@ -73,11 +76,5 @@ Fig 14. Example of online store selection.
 ![screenshot](images/Checkout_list.png)  
 Fig 15. Example of online store selection list of invoiced items.
 
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
