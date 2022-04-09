@@ -274,6 +274,6 @@ Fig 11. Example of Bookstore processed orders.
 
 During the process of developing this application there werem deliverables that we had to provide. The deliverables inccluding a *Mission Statement, Project Charter, Functional Specifications, a Testing Plan, a Testing Report, a Finalized System Design, and a User Guide*, which can a be found below
 
-For more details see [GitHub Flavored Markdown](additional_resources.md).
+For more details see [Final Project Supporting Documents](additional_resources.md).
 
 [Back to Portfolio](./)
