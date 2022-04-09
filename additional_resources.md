@@ -28,23 +28,23 @@ Almost every program requires user interaction, even command-line programs. Incl
 
 Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
-![screenshot](pdf/Mission_Statement.pdf)  
-Fig 1. Mission Statement
+### [*Mision Statement*](pdf/Mission_Statement.pdf)  
 
-![screenshot](pdf/Project_Charter.pdf)  
-Fig 2. Project Charter
 
-![screenshot](pdf/Functional_Specifications.pdf)  
-Fig 3. Functional Specifications
+### [*Project Charter*](pdf/Project_Charter.pdf)  
 
-![screenshot](pdf/Finalized_Test_Plan.pdf)  
-Fig 4. Test Plan
 
-![screenshot](pdf/Testing_Report.pdf)  
-Fig 5. Testing Report
+### [*Functional Specicifications*](pdf/Functional_Specifications.pdf)  
 
-![screenshot](pdf/Finalized_System_Design.pdf)  
-Fig 6. Finalized System Design
 
-![screenshot](pdf/User_Guide.pdf)  
-Fig 7. User Guide
+### [*Test Plan*](pdf/Finalized_Test_Plan.pdf)  
+
+
+### [*Testing Report*](pdf/Testing_Report.pdf)  
+
+
+### [*Finalized System Designr*](pdf/Finalized_System_Design.pdf)  
+
+
+### [*User Guide*](pdf/User_Guide.pdf)  
+
