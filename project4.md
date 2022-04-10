@@ -23,6 +23,91 @@ In order to run the command for the server application, the user will need to na
 ./[server filename] in terminal 2
 ```
 
+```bash
+Server Code:
+
+#include <iostream>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <string.h>
+#include <arpa/inet.h>
+#include <unistd.h>
+
+using namespace std;
+
+int main()
+{
+    int udpSocket, size;
+    char buffer[1000];
+    struct sockaddr_in ServerAddr, ClientAddr;
+    char *ClientIP;
+
+    udpSocket = socket(PF_INET, SOCK_DGRAM, 0);
+    ServerAddr.sin_family = AF_INET;
+    cout << "Please enter a listening port: ";
+    cin >> buffer;
+    ServerAddr.sin_port = htons(atoi(buffer));
+    memset(ServerAddr.sin_zero, '\0', sizeof(ServerAddr.sin_zero));
+    socklen_t addr_size = sizeof ClientAddr;
+    bind(udpSocket, (struct  sockaddr *)&ServerAddr, sizeof(ServerAddr));
+    do
+    {
+        /* data */
+
+      size = recvfrom(udpSocket, buffer, 1000, 0, (struct sockaddr *)&ClientAddr, &addr_size);
+        buffer[size] = '\0';
+        ClientIP = inet_ntoa(ClientAddr.sin_addr);
+        cout << ClientIP << " says: " << buffer << endl;
+    } while (strcmp (buffer, "Quit!") != 0);
+    close(udpSocket);
+    return 0;
+}
+
+```
+
+```bash
+Client Code:
+
+#include <iostream>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <string.h>
+#include <arpa/inet.h>
+#include <unistd.h>
+
+using namespace std;
+
+int main()
+{
+    int clientSocket, nByte;
+    char buffer[1000];
+    struct sockaddr_in ServerAddr;
+    socklen_t addr_size;
+
+    clientSocket = socket(PF_INET, SOCK_DGRAM, 0);
+    ServerAddr.sin_family = AF_INET;
+    cout << "Please enter the server port: ";
+    cin.getline(buffer, 9, '\n');
+    ServerAddr.sin_port = htons(atoi(buffer));
+    cout << "Please enter Server IP: ";
+    cin.getline(buffer, 16, '\n');
+    ServerAddr.sin_addr.s_addr = inet_addr(buffer);
+    memset(ServerAddr.sin_zero, '\0', sizeof(ServerAddr.sin_zero));
+    addr_size = sizeof ServerAddr;
+    do
+    {
+        /* data */
+        cout << "Type a sentence to send to the server: ";
+        cin.getline(buffer, 1000, '\n');
+        nByte = strlen(buffer) + 1;
+        sendto(clientSocket, buffer, nByte, 0, (struct  sockaddr *)&ServerAddr, addr_size);
+    } while (strcmp (buffer, "Quit!") != 0);
+    close(clientSocket);
+    return 0;
+}
+
+```
+
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
