@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "jekyll-theme-cayman";
+@import "{{ site.theme }}";
 
 img {
   max-width: 100%;
