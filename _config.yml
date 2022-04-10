@@ -9,7 +9,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   <br /><br />
   <button type="button" class="btn btn-info"><a href="http://rodoliver.atwebpages.com/myResume/Resume.pdf">View My Resume</a></button>
   <br /><br />
-  <button type="button" class="btn btn-info" onclick="window.location.href="https://www.linkedin.com/in/roderick-oliver">View My LinkedIn Profile</a></button>
+  <button type="button" class="btn btn-info" href="https://www.linkedin.com/in/roderick-oliver">View My LinkedIn Profile</a></button>
 repository: "rodoliver/rodoliver.github.io"
 github_username:  rodoliver # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
