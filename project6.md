@@ -17,7 +17,7 @@ This project was to build a litely functional webite which showcases student abi
 How to run the project.
 
 ```bash
-http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm
+To view the site got to: http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm
 
 <!DOCTYPE html>
 <html lang="en-us">
