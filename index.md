@@ -11,7 +11,7 @@ Roderick L. Oliver
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.*
 
 ---
 ### [Applied Networking Final Project & Lab | CSCI 332](project4)
