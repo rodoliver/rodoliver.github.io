@@ -16,6 +16,8 @@ How to compile (if applicable) and run the project.
 ```bash
 The user user will need to setup a database for MySQL to be able to input the table containing the vehicle information.
 
+// php code that use the require function to calls for the input.php and admin.php file to be required at the time the page is loaded.
+
 <?php
 
 require('input.php');
@@ -32,6 +34,9 @@ ob_start();
     <title>Vehicle Maintenance Log</title>
 
     <meta name="viewport" content="device-width, intial-scale=1"/>
+    
+    // Style sheet links to boostrap for CSS styling on the site.
+
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -53,6 +58,9 @@ ob_start();
 
 </head>
 
+// The body of the logged in site uses a serious of divs for organizing the the buttons for the site. Within the divs the buttons allows fo the accessing
+// of a serious modals with forms that allow for the user to add information depending on the particular information needed to be added.
+
 <body>
      <header>
              <h1 id="headstyle" class="hit-the-floor">Vehicle Maintenance Information System</h1>
@@ -63,7 +71,7 @@ ob_start();
                          User Information
                      </button>
                      <div id="head-menu" class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                         <button id="frmpad" type="button" class="btn btn-primary" data-toggle="modal" data-target="#btnAdd" data-whatever="addNewUser">Add New User</button><br>
+                         <button id="frmpad" type="button" class="btn btn-primary" data-toggle="modal" data-target="#btnAdd" data-whatever="addNewUser">Add New         User</button><br>
                          <a id="frmpad" type="button" class="btn btn-primary btn-md" href="user_update.php">User File Maintenance</a><br>
                          <a id="frmpad" type="button" class="btn btn-primary" href="search_records.php">User Search</a>
                      </div>
