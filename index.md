@@ -37,7 +37,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Edward Snowden: *Treasonous Traidor or Hero of the American People?*](pdf/Edward_Snowden.pdf)
+### [Edward Snowden: *Treasonous Traitor or Hero of the American People?*](pdf/Edward_Snowden.pdf)
 
 -   Class: *CSCI 405 Principles of Cybersecurity*  
 -   Grade: *A*
