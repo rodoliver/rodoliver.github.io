@@ -108,6 +108,132 @@ int main()
 
 ```
 
+```bash
+Datatabase Management Tool PHP Code:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Table</title>
+</head>
+<body>
+<?php
+            $servername = "localhost";
+            $username = "root";
+            $password = "your database password here!";
+            $database = "CSCI332Final";
+           
+            $conn = new mysqli($servername, $username, $password, $database);
+            $create_sql = "create database if not exists " . $_POST['database'];
+            $drop_sql = "drop database if exists " . $_POST['database'];
+            $display_sql = "show databases";
+            $sql = "create table orders (SID Int(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+            CustomerName VARCHAR(30) NOT NULL, 
+            MovieName VARCHAR(30) NOT NULL, 
+            NumOfTickets INT, 
+            TicketType int, 
+            PriceOfTicket int)";
+
+            if ($conn->query($sql) == TRUE) {
+                echo "Success!";
+            }
+            else {
+                echo "Error creating database:" . $conn->error;
+            }
+            $conn->close();
+    ?>
+
+</body>
+</html>
+
+```
+
+```bash
+Movie Kiosk PHP Code:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Insert Into Table</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<?php
+        if (isset($_POST['submit']))
+        {
+            $servername = "localhost";
+            $username = "root";
+            $password = "BlackOlive11!";
+            $database = "CSCI332Final";
+            $conn = new mysqli($servername, $username, $password, $database);
+            $sql = "INSERT INTO orders (CustomerName, MovieName, NumOfTickets, TicketType, PriceOfTicket)
+            values ('" . $_POST['CustomerName'] . "','" . $_POST['MovieName'] . "','" . 
+            $_POST['NumbOfTickets'] . "','" . $_POST['TicktetType'] . "','" . $_POST['PriceOfTicktet'] . "')";
+            echo $sql;
+            
+
+            if ($conn->query($sql) == TRUE) {
+                echo "Success!"; "<br/>";
+            }
+            else {
+                echo "Error creating database:" . $conn->error;
+            }
+            $conn->close();
+        }
+    ?>
+    <h1 id="h1" >CSU Movie Kiosk</h1><br/>
+    <hr></hr>
+    <table>
+        <th>Ticket Price
+            <tr id="one">
+                <td>Adult</td>
+                <td>Child</td>
+                <td>Senior</td>
+            </tr>
+            <tr>
+                <td>$12</td>
+                <td>$4</td>
+                <td>$8</td>
+            </tr>
+            </tr>
+        </th>
+    </table><br/>
+    <div>
+        <form action="<?=$_SERVER['PHP_SELF'] ?>" method="post">
+
+            Name:  <input type="text" name="CustomerName"/><br/>
+            <br/>
+            Choose a movie:<br/>
+            <input type="radio" name="Spiderman" value="Spiderman" checked/>
+            <label for="Spiderman">Spiderman</label><br/>
+            <input type="radio" name="Superman" value="Superman" checked/>
+            <label for="Superman">Superman</label><br/>
+            <input type="radio" name="Runaway Child" value="Runaway Child" checked/>
+            <label for="Runaway Child">Runaway Child</label><br/>
+            <input type="radio" name="Jungle Baby" value="Jungle Baby" checked/>
+            <label for="Jungle Baby">Jungle Baby</label><br/>
+            <br/r>
+            Adult:  <input type="text" name="NumOfTickets"/> tickets<br/><br/>
+            Child:  <input type="text" name="NumOfTickets"/> tickets<br/><br/>
+            Senior: <input type="text" name="NumOfTickets"/> tickets<br/><br/>
+            <input type="submit" name="Submit" value="submit">
+
+        </form>
+    </div>
+</body>
+</html>
+
+```
+
+
+
+
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
@@ -160,6 +286,9 @@ Fig 14. Example of online store selection.
 
 ![screenshot](images/Checkout_list.png)  
 Fig 15. Example of online store selection list of invoiced items.
+
+![screenshot](images/Movie_Kiosk.png)  
+Fig 15. Example of movie kiosk.
 
 
 [Back to Portfolio](./)
