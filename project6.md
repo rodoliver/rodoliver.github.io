@@ -1037,7 +1037,7 @@ Fig 4. Site load after clicking the Fitness button on the nav bar.
 
 Fig 5. Example a hands on project that uses Javascript for filling in form data.
 
-![screenshot](images/Javacript_form_sumbmitted.png)
+![screenshot](images/form_submitted.png)
 
 Fig 6. Example the submitted form and the results.
 
