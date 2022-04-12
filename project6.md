@@ -17,7 +17,7 @@ This project was to build a litely functional webite which showcases student abi
 How to run the project.
 
 ```bash
-To view the site got to: http://rodoliver.atwebpages.com/finalproject/ROWebDesigns.htm
+To view the site a web link is provided in the UI Design details.
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -32,10 +32,11 @@ To view the site got to: http://rodoliver.atwebpages.com/finalproject/ROWebDesig
            Date: 11/21/2016
        -->
    <meta charset="utf-8" />
-    <style>
-  
+   
+   // internal style sheet for CSSS styling for the site
 
-    #container {
+    <style>
+      #container {
         max-width: 95%;
         min-width: 60%;
         margin: 0 auto;
@@ -336,6 +337,8 @@ To view the site got to: http://rodoliver.atwebpages.com/finalproject/ROWebDesig
                 and one of our representives will reach out to you on the next following business day. Once again, thank you for visiting our site and for considering our services. We hope to be doing business with you soon. And remember,
                 R.O. Web Designs is,<em>"Where we make all your dreams a reality!"</em>
             </p>
+	    
+	    // form using JavaScript to populate onscreen message boxes when a user selects the radio button and when the form is submitted.
 
             <div>
                 <!-- enter the form code below -->
@@ -399,8 +402,10 @@ To view the site got to: http://rodoliver.atwebpages.com/finalproject/ROWebDesig
            Date: 4/19/2017
        -->
    <meta charset="utf-8" />
+   
+// internal style sheet for the use of CSS styling for he site
 <style>
-  
+
 
 #container {
         max-width: 100%;
@@ -942,6 +947,9 @@ nav {
             </p>
         </footer>
     </div>
+    
+    // form using JavaScript to populate onscreen message boxes when a user selects the radio button and when the form is submitted.
+    // JavaScript use for fade-in on the header and the text information in the body of the site.
     
     <script>
     
