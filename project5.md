@@ -269,7 +269,7 @@ Fig 10. Example of Bookstore Staff order processing.
 ![screenshot](images/Bookstore_Staff_Page_Update_Orders-3.png)  
 Fig 11. Example of Bookstore processed orders.
 
-### [Application Functional Mockups with clickable links](pdf/TeamProjectMockUps.pdf)
+### [User Interface Mockups with Functionality Descriptions](pdf/TeamProjectMockUps.pdf)
 
 ## 3. Additional Considerations
 
