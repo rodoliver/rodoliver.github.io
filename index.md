@@ -70,7 +70,7 @@ Presentations
 ### [Information Laws & Standards Infographic](pdf/Information_Laws_&_Standards_Infograph.pdf)
 
 - Class: *CSCI 352 Cyber Defense* 
-- Grade: *Placeholder*
+- Grade: *TBD*
 
 
 ---
