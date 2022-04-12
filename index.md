@@ -1,5 +1,5 @@
 ![headshot](images/Photo_Shoot_Image_Cropped.png)
-Roderick L. Oliver
+*Roderick L. Oliver*
 --------------------
 
 *"The greatest challenge you will ever face is conquering the thoughts you have about yourself."  ~ Rod Oliver*
