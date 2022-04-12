@@ -1,6 +1,6 @@
 ![headshot](images/Photo_Shoot_Image_Cropped.png)
 *Roderick L. Oliver*
---------------------
+---------------
 ***"The greatest challenge you will ever face is conquering the thoughts you have about yourself."*** ~ *Rod Oliver*
 
 ***"As a man thinketh in his heart, so is he."*** ~ *King Solomon*
