@@ -32,4 +32,5 @@ body {
 .comment-body blockquote,
 .comment-body pre {
   max-height: none !important;
+	overflow: auto;
 }
