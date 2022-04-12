@@ -25,7 +25,7 @@ Programming Projects
 
 ![RO Designs Web Portfolio Enhanced](images/RO_WebDesign5.png)
 
-![RO Designs Web Portfolio Enhanced](images/R.O._Web_Gallery_Updated.png)
+![RO Designs Web Portfolio Enhanced](images/R.O._Web_Gallery_Updated2.png)
 
 ---
 ### [CPT Senior Project | CSCI 275](project5)
