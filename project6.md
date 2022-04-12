@@ -381,7 +381,9 @@ To view the site got to: http://rodoliver.atwebpages.com/finalproject/ROWebDesig
 
 ```
 
-Site code with Javavscript enhancements and additonal projects.
+
+
+**Site code with Javavscript enhancements and additonal projects**.
 
 ```bash
 <!DOCTYPE html>
