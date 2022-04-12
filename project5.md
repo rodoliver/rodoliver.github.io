@@ -269,6 +269,8 @@ Fig 10. Example of Bookstore Staff order processing.
 ![screenshot](images/Bookstore_Staff_Page_Update_Orders-3.png)  
 Fig 11. Example of Bookstore processed orders.
 
+### [Application Functional Mockups with clickable links](pdf/TeamProjectMockUps.pdf)
+
 ## 3. Additional Considerations
 
 During the process of developing this application there werem deliverables that we had to provide. The deliverables inccluding a *Mission Statement, Project Charter, Functional Specifications, a Testing Plan, a Testing Report, a Finalized System Design, and a User Guide*, which can a be found below
