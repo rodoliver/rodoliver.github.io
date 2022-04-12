@@ -231,7 +231,7 @@ $(document).ready(function(){
 
 The UI provides for a user whether they are the site admin, an instructor, department head, or a bookstore employee, can login and see the neccessary functions needed to process the book orders. The site use model form created using Bootstrap for the design. And API for retrieving book information based on the ISBN number is used for creating the book orders to be submiotted for approval and is stored in the database. As the books go through the process of being ordered, approved, and processed by the bookstore, it sends email notifications to each party registered.
 
-The first screensh displays an admin page after login (see Fig 1 - 4), the model used for the forms, and a list of drop-down options that can used in managing the user's account access and the course they will be responsible for. The next set of screenshot provides the functions administered by an instructor. The instructiors are able to see the book orders they have made and status of those orders, as well as the ability to place additional orders (see Fig 5 - 8). The remainging images provide example of the director and department head's view of the site which grants the abliltiy approve or reject orders placed by instructors before sending it on to the bookstore for processing. And lastly, the books store employees's view allows for the processing of the orders received and for view orders that have already been placed. (see Fig 9 - 11).
+The first screensh displays an admin page after login **(see Fig 1 - 4)**, the model used for the forms, and a list of drop-down options that can used in managing the user's account access and the course they will be responsible for. The next set of screenshot provides the functions administered by an instructor. The instructiors are able to see the book orders they have made and status of those orders, as well as the ability to place additional orders **(see Fig 5 - 8)**. The remainging images provide example of the director and department head's view of the site which grants the abliltiy approve or reject orders placed by instructors before sending it on to the bookstore for processing. And lastly, the books store employees's view allows for the processing of the orders received and for view orders that have already been placed. **(see Fig 9 - 11)**.
 
 ![screenshot](images/Bookstore_Instructor's_Admin_Page.png)  
 Fig 1. The Admin Page
@@ -273,7 +273,7 @@ Fig 11. Example of Bookstore processed orders.
 
 ## 3. Additional Considerations
 
-During the process of developing this application there werem deliverables that we had to provide. The deliverables inccluding a *Mission Statement, Project Charter, Functional Specifications, a Testing Plan, a Testing Report, a Finalized System Design, and a User Guide*, which can a be found below
+During the process of developing this application there werem deliverables that we had to provide. The deliverables inccluding a ***Mission Statement, Project Charter, Functional Specifications, a Testing Plan, a Testing Report, a Finalized System Design, and a User Guide***, which can a be found below
 
 For more details see [Final Project Supporting Documents](additional_resources).
 
