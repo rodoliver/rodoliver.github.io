@@ -169,7 +169,7 @@ Movie Kiosk PHP Code:
         {
             $servername = "localhost";
             $username = "root";
-            $password = "BlackOlive11!";
+            $password = "your database password here!";
             $database = "CSCI332Final";
             $conn = new mysqli($servername, $username, $password, $database);
             $sql = "INSERT INTO orders (CustomerName, MovieName, NumOfTickets, TicketType, PriceOfTicket)
